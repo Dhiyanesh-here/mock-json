@@ -1,5 +1,5 @@
 {
-    "api/v1/regions": {
+    "api/v1/regions": [{
         "body": {
             "eventClassifications": [
                 {
@@ -19,7 +19,7 @@
             "status": "success"
         },
         "statusCode": 200
-    },
+    }],
     "profile": {
         "name": "typicode"
     }
