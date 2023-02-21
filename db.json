@@ -228,7 +228,7 @@
 			"expires": "20220218"
 		}
 	],
-	 "api/v1/regions": {
+	 "regions": {
         "body": {
             "eventClassifications": [
                 {
