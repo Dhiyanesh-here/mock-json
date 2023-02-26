@@ -1,3 +1,147 @@
 {
-  "eventTypeAndCategories": []
+  "eventTypeAndCategories": [
+        {
+    "body": {
+        "eventTypes": [
+            {
+                "eventCategories": [
+                    {
+                        "event_category_description": "An information session designed to deliver key insights to students about studying abroad. Can be IDP hosted or held in conjunction with an IDP partner.",
+                        "event_category_id": "98a12c40-25b7-41d4-a356-3a030eeabc7a",
+                        "event_category_name": "Seminar"
+                    },
+                    {
+                        "event_category_description": "IDP hosted event for students before they move to their study destination.",
+                        "event_category_id": "2859c07c-b7b7-4804-bf04-8051b87b79e5",
+                        "event_category_name": "Pre-Departure"
+                    },
+                    {
+                        "event_category_description": "An IELTS event is conducted to deliver any information session to students on taking an IELTS exams.",
+                        "event_category_id": "8f8afa18-588e-48e9-b86b-8768cc754070",
+                        "event_category_name": "IELTS Events"
+                    },
+                    {
+                        "event_category_description": "An SES information session.",
+                        "event_category_id": "7035313a-8537-4d51-a197-5d036921e72f",
+                        "event_category_name": "Student Essential Events"
+                    },
+                    {
+                        "event_category_description": "An on-arrival events is conducted for students who have arrived in their destination country.",
+                        "event_category_id": "1e33564c-7533-4277-87c2-35ac311d09f6",
+                        "event_category_name": "On Arrival"
+                    },
+                    {
+                        "event_category_description": "A social event or community building activity held for students.",
+                        "event_category_id": "717b8fe7-d7a4-4f2c-a9e8-6089ff2c5584",
+                        "event_category_name": "Student Engagement Event"
+                    },
+                    {
+                        "event_category_description": "For events where IDP staff visit schools, colleges or universities to attract new students.",
+                        "event_category_id": "218a99f9-53c0-429d-8714-aa153de98c71",
+                        "event_category_name": "Local Institution Visit"
+                    }
+                ],
+                "event_type_description": "A physical event takes place in person for all those who are attending the event.",
+                "event_type_id": "ff0c7258-4a67-448a-aeff-c08f931441e2",
+                "event_type_name": "Physical Event"
+            },
+            {
+                "eventCategories": [
+                    {
+                        "event_category_description": "An information session designed to deliver key insights to students about studying abroad. Can be IDP hosted or held in conjunction with an IDP partner.",
+                        "event_category_id": "98a12c40-25b7-41d4-a356-3a030eeabc7a",
+                        "event_category_name": "Seminar"
+                    },
+                    {
+                        "event_category_description": "IDP hosted event for students before they move to their study destination.",
+                        "event_category_id": "2859c07c-b7b7-4804-bf04-8051b87b79e5",
+                        "event_category_name": "Pre-Departure"
+                    },
+                    {
+                        "event_category_description": "An IELTS event is conducted to deliver any information session to students on taking an IELTS exams.",
+                        "event_category_id": "8f8afa18-588e-48e9-b86b-8768cc754070",
+                        "event_category_name": "IELTS Events"
+                    },
+                    {
+                        "event_category_description": "An SES information session.",
+                        "event_category_id": "7035313a-8537-4d51-a197-5d036921e72f",
+                        "event_category_name": "Student Essential Events"
+                    },
+                    {
+                        "event_category_description": "An on-arrival events is conducted for students who have arrived in their destination country.",
+                        "event_category_id": "1e33564c-7533-4277-87c2-35ac311d09f6",
+                        "event_category_name": "On Arrival"
+                    },
+                    {
+                        "event_category_description": "A social event or community building activity held for students.",
+                        "event_category_id": "717b8fe7-d7a4-4f2c-a9e8-6089ff2c5584",
+                        "event_category_name": "Student Engagement Event"
+                    },
+                    {
+                        "event_category_description": "For events where IDP staff visit schools, colleges or universities to attract new students.",
+                        "event_category_id": "218a99f9-53c0-429d-8714-aa153de98c71",
+                        "event_category_name": "Local Institution Visit"
+                    }
+                ],
+                "event_type_description": "A virtual event is hosted online via video conference software.",
+                "event_type_id": "f48e5e36-28e4-4b62-8376-a2bc45adf17f",
+                "event_type_name": "Virtual Event"
+            },
+            {
+                "eventCategories": [
+                    {
+                        "event_category_description": "An information session designed to deliver key insights to students about studying abroad. Can be IDP hosted or held in conjunction with an IDP partner.",
+                        "event_category_id": "98a12c40-25b7-41d4-a356-3a030eeabc7a",
+                        "event_category_name": "Seminar"
+                    },
+                    {
+                        "event_category_description": "IDP hosted event for students before they move to their study destination.",
+                        "event_category_id": "2859c07c-b7b7-4804-bf04-8051b87b79e5",
+                        "event_category_name": "Pre-Departure"
+                    },
+                    {
+                        "event_category_description": "An IELTS event is conducted to deliver any information session to students on taking an IELTS exams.",
+                        "event_category_id": "8f8afa18-588e-48e9-b86b-8768cc754070",
+                        "event_category_name": "IELTS Events"
+                    },
+                    {
+                        "event_category_description": "An SES information session.",
+                        "event_category_id": "7035313a-8537-4d51-a197-5d036921e72f",
+                        "event_category_name": "Student Essential Events"
+                    },
+                    {
+                        "event_category_description": "An on-arrival events is conducted for students who have arrived in their destination country.",
+                        "event_category_id": "1e33564c-7533-4277-87c2-35ac311d09f6",
+                        "event_category_name": "On Arrival"
+                    },
+                    {
+                        "event_category_description": "For events where IDP staff visit schools, colleges or universities to attract new students.",
+                        "event_category_id": "218a99f9-53c0-429d-8714-aa153de98c71",
+                        "event_category_name": "Local Institution Visit"
+                    }
+                ],
+                "event_type_description": "Hybrid event includes both virtual and physical event formats, where some attendees will be online and some in person.",
+                "event_type_id": "87558c0f-0b76-421e-8bca-1b871b27daa2",
+                "event_type_name": "Hybrid Event"
+            },
+            {
+                "eventCategories": [
+                    {
+                        "event_category_description": "An information session designed to deliver key insights to students about studying abroad. Can be IDP hosted or held in conjunction with an IDP partner.",
+                        "event_category_id": "98a12c40-25b7-41d4-a356-3a030eeabc7a",
+                        "event_category_name": "Seminar"
+                    }
+                ],
+                "event_type_description": "A webinar event is a virtual presentation that takes place with one host and many attendees.",
+                "event_type_id": "f4cd681f-da0f-4a5b-83bc-df48853b19d5",
+                "event_type_name": "Webinar"
+            }
+        ],
+        "message": "A list of the event types and categories"
+    },
+    "status": "success",
+    "statusCode": 200
+}
+  
+  ]
 }
