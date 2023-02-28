@@ -142,5 +142,22 @@
         "message": "A list of the event types and categories"
     }
 }
+  ],
+  "eventPlannerDetails":[
+    {
+  "statusCode": 200,
+  "status": "success",
+  "body": {
+    "message": "List of all the staffs based on the email text {emailPrefix}.",
+    "staffs": [
+      {
+        "id": "5903db06-86e2-11ed-a1eb-0242ac120002",
+        "first_name": "Sourav",
+        "last_name": "Hazra",
+        "email": "sourav.hazra@idp.com"
+      }
+    ]
+  }
+}
   ]
 }
