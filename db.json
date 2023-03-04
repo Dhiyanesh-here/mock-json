@@ -1,7 +1,7 @@
 {
   "eventTypeAndCategories": [
        {
-    "status": "success good to get success -- local changes",
+    "status": "success",
     "statusCode": 200,
     "body": {
         "eventTypes": [
