@@ -1,7 +1,7 @@
 {
   "eventTypeAndCategories": [
        {
-    "status": "success",
+    "status": "success good to get success -- remote changes",
     "statusCode": 200,
     "body": {
         "eventTypes": [
